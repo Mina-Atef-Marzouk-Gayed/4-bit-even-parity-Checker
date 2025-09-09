@@ -4,8 +4,8 @@
 This project demonstrates the design and hardware implementation of a **4-bit Even Parity Checker**.  
 The focus is on **error detection in digital systems** using logic circuits, supported by theory, hardware setup, and documentation.  
 
-📎 Documentation → `Documentation.pdf`  
-📎 Presentation → `4-bit even parity checker.pptx`  
+📎 [Documentation](Documentation.pdf)  
+📎 [Presentation](4-bit%20even%20parity%20checker.pptx)  
 📎 Hardware Setup → ![Hardware](Hardware.png)  
 
 ---
